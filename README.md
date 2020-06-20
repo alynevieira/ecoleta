@@ -82,5 +82,5 @@ $ expo start
 # Mobile
 <p align="center">
 
-![mobile](https://user-images.githubusercontent.com/17361699/85178698-8a458e80-b255-11ea-872e-6dd7ff6da887.gif)
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/17361699/85187013-cc30fd80-b272-11ea-9f41-c19588afe7fc.gif)
 </p>

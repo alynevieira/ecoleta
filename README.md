@@ -1,15 +1,15 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/17361699/84955192-314aee80-b0cd-11ea-9096-24cbe98b50cf.png">
 </p>
-<h3 align="center">:recycle: Ecoleta</h3>
+<h2 align="center">:recycle: Ecoleta</h2>
 
 ## :scroll: Description
 
-Ecoleta is a project open source with goals to connect people and companies to can find where recycle. You can register a location in the map to divulge items to collect (like a lamps, batteries, cooking oil) and helps other people to find out these places. 
-The idea of this application come to a World Environment Week.
-This project was be desenvolved in an event called "next level week" proposed by **Rocketseat**, where is your intuit is to take you a next level as a dev, totally online and free. 
+Ecoleta is a open source project aimed to help people in need to dispose selective waste to find places. 
+Everyone can do a registration, you just need a name, location of the place and choose how items this place collect (lamps, batteries, cooking oil and more). Doing it, you're helping people to find out these places.
+The idea of this application come to a World Environment Week, and the code's avaiable in web and mobile.
+This project was be desenvolved in an event called "next level week" proposed by **Rocketseat**, where's your intuit's to take you a next level as a dev, totally online and free. 
 Your methods consist in the pratic, focus and group, where you learn new features, technologies, tools, and do a important networking to help in your evolution.
-The result of this event, was be desenvolved an application web and mobile.
 
 ## :rocket: Technologies
 
